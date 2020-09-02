@@ -41,3 +41,11 @@ footer {
 .navbar {
   background-color:#901Cad
 }
+
+.navbar i {
+  padding-right:3px;
+}
+
+.navbar li {
+  padding: 0px 3px;
+}
