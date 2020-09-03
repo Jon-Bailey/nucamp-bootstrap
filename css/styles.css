@@ -49,3 +49,8 @@ footer {
 .navbar li {
   padding: 0px 3px;
 }
+
+.site-footer{
+  background-image: linear-gradient(#CEC8FF, white);
+  padding: 20px 0;
+}
