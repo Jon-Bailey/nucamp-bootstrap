@@ -21,12 +21,11 @@ header h2 {
 }
 
 footer {
-  background-image: linear-gradient(#cec8ff, white);
   padding: 20px 0;
 }
 
 .jumbotron {
-  margin:0;
+  margin: 0;
   padding: 30px;
   background-image: linear-gradient(to right, #5637dd, #3046c5, #60106b);
   color: white;
@@ -39,24 +38,24 @@ footer {
 }
 
 .navbar {
-  background-color:#901Cad
+  background-color: #901cad;
 }
 
 .navbar i {
-  padding-right:3px;
+  padding-right: 3px;
 }
 
 .navbar li {
   padding: 0px 3px;
 }
 
-.site-footer{
-  background-image: linear-gradient(#CEC8FF, white);
+.site-footer {
+  background-image: linear-gradient(#cec8ff, white);
   padding: 20px 0;
 }
 
 .tab-content {
-  border: 1px solid #DDD;
+  border: 1px solid #ddd;
   border-top: none;
   padding: 10px;
 }
@@ -66,5 +65,9 @@ footer {
 }
 
 .carousel {
-  border: solid #5637DD;
+  border: solid #5637dd;
+}
+
+.blockquote-footer {
+  background-color: white;
 }
